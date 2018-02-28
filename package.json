@@ -1,15 +1,11 @@
 {
-  "name": "chester-atom-syntax",
+  "name": "chazy-atom-syntax",
   "theme": "syntax",
   "version": "0.3.0",
-  "description": "A pretty Atom syntax theme based on Lonely Planet colours",
-  "keywords": [
-    "chester",
-    "syntax",
-    "theme",
-    "atom"
-  ],
-  "repository": "https://github.com/csutter/chester-atom-syntax",
+  "description":
+    "A pretty Atom syntax theme based on a pretty Atom syntax theme based on Lonely Planet colours",
+  "keywords": ["chester", "chazy", "syntax", "theme", "atom"],
+  "repository": "https://github.com/wachunei/chazy-atom-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
