@@ -1,7 +1,7 @@
 {
   "name": "chazy-atom-syntax",
   "theme": "syntax",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A pretty Atom syntax theme based on a pretty Atom syntax theme based on Lonely Planet colours",
   "keywords": [
     "chester",
